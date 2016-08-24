@@ -11,8 +11,11 @@ https://www.thingiverse.com/thing:784917
 
 https://www.thingiverse.com/thing:774456
 
+# How to build 
 
-# Installation Instructions
+http://www.instructables.com/id/Twitter-Mood-Lamps-With-ESP8266/
+
+#Software Installation Instructions
 
 1. Download the Arduino IDE  https://www.arduino.cc/en/Main/Software
 
